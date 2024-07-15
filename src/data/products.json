@@ -9,25 +9,25 @@
     "id": 2,
     "name": "product2",
     "price": 30,
-    "image": "./src/assets/2.jpg"
+    "image": "/src/assets/2.jpg"
   },
   {
     "id": 3,
     "name": "product3",
     "price": 60,
-    "image": "./src/assets/3.jpg"
+    "image": "src/assets/3.jpg"
   },
   {
     "id": 4,
     "name": "product4",
     "price": 70,
-    "image": "./src/assets/4.jpg"
+    "image": "/assets/4.jpg"
   },
   {
     "id": 5,
     "name": "product5",
     "price": 10,
-    "image": "./src/assets/5.jpg"
+    "image": "../src/assets/5.jpg"
   },
   {
     "id": 6,
