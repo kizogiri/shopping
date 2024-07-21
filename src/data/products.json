@@ -3,19 +3,19 @@
     "id": 1,
     "name": "product1",
     "price": 40.29,
-    "image": "./src/assets/1.png"
+    "image": "https://m.media-amazon.com/images/I/71Z4fIIWDtL._AC_UL320_.jpg"
   },
   {
     "id": 2,
     "name": "product2",
     "price": 30.29,
-    "image": "../src/assets/2.png"
+    "image": "https://m.media-amazon.com/images/I/810Scj-0BxL._AC_UL320_.jpg"
   },
   {
     "id": 3,
     "name": "product3",
     "price": 60.29,
-    "image": "./src/assets/3.jpg"
+    "image": "https://m.media-amazon.com/images/I/51dPz+dQTZL._AC_UL320_.jpg"
   },
   {
     "id": 4,
