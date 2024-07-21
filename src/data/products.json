@@ -3,7 +3,7 @@
     "id": 1,
     "name": "product1",
     "price": 40,
-    "image": "./src/assets/1.jpg"
+    "image": "../src/assets/1.jpg"
   },
   {
     "id": 2,
